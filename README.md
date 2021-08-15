@@ -17,7 +17,7 @@
 5. Run the `MainProjectFile.ipynb` file on your virtual environment.
 
 
-**Note:** Install only those versions of libraries on your virtual environment, which I have mention in `requirements.txt` file (to install correct versions, please follow above steps). Otherwise output of the __map__ will not rendered on your screen and it gives error.
+**Note:** Install only those versions of libraries on your virtual environment, which I have mention in `requirements.txt` file (to install correct versions, please follow above steps). 
 
 
 
